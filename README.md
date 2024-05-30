@@ -11,6 +11,10 @@ The Responsive Accordion Component is a customizable and user-friendly component
 - **Smooth Animations:** Provides a pleasant user experience with smooth transition effects.
 - **Accessible:** Built with accessibility in mind, ensuring it is usable by everyone.
 
+## Preview
+
+![Accordion Component Preview](https://raw.githubusercontent.com/AroshaRavishan/Accordion-Component-Responsive/main/sample-image.png)
+
 ## Installation
 
 To use the Responsive Accordion Component in your project, follow these steps:
@@ -24,4 +28,4 @@ Download the component files and add them to your project directory.
 Include the CSS file in the `<head>` section of your HTML file.
 
 ```html
-<link href="acoordion.css" rel="stylesheet">
+<link rel="stylesheet" href="accordion.css">
